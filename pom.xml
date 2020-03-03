@@ -7,8 +7,8 @@
     <packaging>pom</packaging>
     <name>Leeds AIoTES Integration Suite</name>
     <modules>
-        <module>activage-leeds-fiware-proxy</module>
-        <module>activage-leeds-sil-client</module>
+        <module>fiware-proxy</module>
+        <module>sil-client</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

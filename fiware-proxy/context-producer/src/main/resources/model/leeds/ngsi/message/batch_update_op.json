@@ -1,0 +1,1821 @@
+{
+  "actionType" : "append",
+  "entities" : [ {
+    "id" : "98024",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3539,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-19T18:57:41Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "135336",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T18:44:57Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "135339",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 143195,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-06-23T16:46:35+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "135342",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 141731,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-06-23T16:22:11+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "135350",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3782,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T19:16:01Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139097",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 120119,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-02T10:21:59+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139098",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3556,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:52:18Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139099",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 120282,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-02T10:24:42+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139100",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 4007,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-01-03T01:55:10Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136593",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3612,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T18:57:11Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136597",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 7727,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T16:07:36Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136607",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3323,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T18:36:41Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136759",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3988,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:27:39Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136760",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 4162,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:42:37Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136761",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 6065,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:37:42Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136762",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 137259,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-07-11T15:07:39+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137374",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3689,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T17:26:21Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137376",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 136386,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-07-18T14:53:06+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137377",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 1444,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T18:05:04Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "138299",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 4,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:21:25Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "147023",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 115893,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-09-25T09:11:33+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139111",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:09:49Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139112",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 2092,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-06T15:23:22+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139113",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:43:34Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139115",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 135043,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-02T14:30:43+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139843",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T09:52:38Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139844",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 112647,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-10T08:17:27+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139846",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3717,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:53:48Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139847",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3716,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:43:24Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139812",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3584,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T01:38:06Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139813",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 134631,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-09T14:23:51+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139814",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 134363,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-09T14:19:23+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139815",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 134304,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-09T14:18:24+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140732",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 120350,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-20T10:25:50+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140733",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:02:07Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139829",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3503,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:00:27Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139830",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 127919,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-09T12:31:59+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139831",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3759,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:07:48Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "143458",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 120094,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-09-21T10:21:34+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "143459",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3668,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:07:25Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "183101",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 3529,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:01:44Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "183102",
+    "type" : "DoorStateSensor",
+    "doorState" : {
+      "type" : "DoorStatus",
+      "value" : 6856,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:54:07Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "99764",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 120,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-19T19:31:22Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "135331",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 29,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T18:11:26Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "135332",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 46,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T17:47:54Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139090",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 416,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:52:21Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139091",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 37,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:46:52Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139092",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 4487,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:13:08Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139093",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 293,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:51:52Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136590",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 77,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-10-29T13:41:51Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136591",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 100,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T16:37:14Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136592",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 76,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-11-30T23:22:13Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136614",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 160084,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-07-09T21:28:04+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136766",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 29,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:02:28Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136767",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 869,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:13:23Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136768",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 2464,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:52:34Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "136769",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 378,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:40:08Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137371",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 54,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T18:14:33Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137372",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T15:43:13Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137373",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 134399,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-07-18T14:19:59+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "137381",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 25,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T16:41:05Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "138291",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 82,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:23:11Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "138294",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 273,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:29:00Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "138295",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 1277,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:51:34Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "138374",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 134770,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-07-26T14:26:10+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139106",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 143,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:42:39Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139107",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 2687,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:11:29Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139109",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 706,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:36:54Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139110",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 79,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:42:04Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139838",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 1063,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-04T13:51:12Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139839",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 154,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T09:38:21Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139840",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 288,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T09:31:37Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139841",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 45,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T09:48:19Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139808",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 63,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T23:27:57Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139809",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 73,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T00:45:25Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139810",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 135306,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-08-09T14:35:06+01",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139811",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 95,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T23:28:32Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140726",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 338,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-01-09T09:31:23Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140727",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 351,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:30:43Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140728",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 120,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:28:24Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140729",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:42:00Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "140730",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 579,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:40:34Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139824",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 2599,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:45:56Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139825",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 1,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:03:04Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139826",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 485,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:05:09Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "139827",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 22,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:49:11Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "143454",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 253,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:38:48Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "143455",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 339,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:16:28Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "143457",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 24,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T09:55:56Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "183096",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 68,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:37:58Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "183097",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 272,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:57:59Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "183098",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 1156,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:13:58Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "183100",
+    "type" : "UserOccupancySensor",
+    "motionDetected" : {
+      "type" : "MotionState",
+      "value" : 26,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:00:01Z",
+          "type" : "DateTime"
+        }
+      }
+    }
+  }, {
+    "id" : "98019",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-19T19:33:10Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "98023",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 206.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-19T19:33:09Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "135343",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 60.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T18:14:32Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "135346",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T17:53:08Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "135347",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T20:04:59Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "135349",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-08T19:36:19Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139094",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:05:59Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139095",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-09-27T09:13:09+01",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139096",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-09-22T06:49:37+01",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "136610",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 11.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T19:03:36Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "136611",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T12:12:13Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "136613",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2018-12-15T16:40:43Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "136763",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:04:15Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "136764",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-01-30T13:27:18Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "136765",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-01-30T14:51:11Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "137379",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 18001.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-19T17:19:11Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "137380",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 59.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T17:42:53Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "138315",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:46:55Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "138316",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:04:08Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139116",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T23:55:15Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139117",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 21.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:39:42Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139119",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 3658.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:49:05Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139848",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T23:45:02Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139850",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 40.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T10:48:32Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139851",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-22T19:27:09Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139817",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 48.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-01-17T13:07:31Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139821",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T20:53:34Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139822",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-25T16:33:24Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "140734",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:28:42Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "140735",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T10:27:35Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139832",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T07:59:19Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139834",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:40:19Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "139835",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 10.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T12:04:16Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "143461",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 20.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T11:32:40Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "143462",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 938.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:49:53Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "143463",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 11.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T08:33:51Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "183104",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 11.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T06:39:44Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  }, {
+    "id" : "183108",
+    "type" : "EnergyMeter",
+    "power" : {
+      "type" : "power",
+      "value" : 30.0,
+      "metadata" : {
+        "timestamp" : {
+          "value" : "2019-02-26T09:10:47Z",
+          "type" : "DateTime"
+        },
+        "unitCode" : {
+          "value" : "WTT"
+        }
+      }
+    }
+  } ]
+}

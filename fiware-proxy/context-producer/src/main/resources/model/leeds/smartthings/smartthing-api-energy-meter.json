@@ -1,0 +1,113 @@
+{
+    "items": [
+        {
+            "deviceId": "e224046f-1cd7-442e-851e-f315ae2adba3",
+            "name": "Smart Plug",
+            "label": "Instant Pot",
+            "locationId": "d038666e-b302-42e4-bf2e-40a3f4713bfc",
+            "roomId": "9e5602fc-d999-4cdb-891a-7eed0c89126c",
+            "deviceTypeId": "ad6e0870-e2a0-4670-8675-8b4dd86f0300",
+            "deviceTypeName": "Zigbee Metering Plug",
+            "deviceNetworkType": "ZIGBEE",
+            "components": [
+                {
+                    "id": "main",
+                    "label": "Instant Pot",
+                    "capabilities": [
+                        {
+                            "id": "switch",
+                            "version": 1
+                        },
+                        {
+                            "id": "configuration",
+                            "version": 1
+                        },
+                        {
+                            "id": "refresh",
+                            "version": 1
+                        },
+                        {
+                            "id": "energyMeter",
+                            "version": 1
+                        },
+                        {
+                            "id": "powerMeter",
+                            "version": 1
+                        },
+                        {
+                            "id": "sensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "actuator",
+                            "version": 1
+                        },
+                        {
+                            "id": "healthCheck",
+                            "version": 1
+                        }
+                    ]
+                }
+            ],
+            "dth": {
+                "deviceTypeId": "ad6e0870-e2a0-4670-8675-8b4dd86f0300",
+                "deviceTypeName": "Zigbee Metering Plug",
+                "deviceNetworkType": "ZIGBEE",
+                "completedSetup": true,
+                "networkSecurityLevel": "UNKNOWN",
+                "hubId": "5f993c64-de1f-49a8-977b-dc8b42bc9345"
+            },
+            "type": "DTH"
+        }
+   ],
+    "states": [
+        {
+            "components": {
+                "main": {
+                    "powerMeter": {
+                        "power": {
+                            "value": 0,
+                            "unit": "W"
+                        }
+                    },
+                    "actuator": {},
+                    "configuration": {},
+                    "energyMeter": {
+                        "energy": {
+                            "value": 0.36,
+                            "unit": "kWh"
+                        }
+                    },
+                    "healthCheck": {
+                        "checkInterval": {
+                            "value": 720,
+                            "unit": "s",
+                            "data": {
+                                "protocol": "zigbee",
+                                "hubHardwareId": "000E"
+                            }
+                        },
+                        "DeviceWatch-Enroll": {
+                            "value": null
+                        },
+                        "healthStatus": {
+                            "value": null,
+                            "data": {}
+                        },
+                        "DeviceWatch-DeviceStatus": {
+                            "value": null,
+                            "data": {}
+                        }
+                    },
+                    "refresh": {},
+                    "sensor": {},
+                    "switch": {
+                        "switch": {
+                            "value": "on"
+                        }
+                    }
+                }
+            }
+        }    
+    ]
+}

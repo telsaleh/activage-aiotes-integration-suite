@@ -1,0 +1,38 @@
+{
+    "id": "service:LEE:LD:test002",
+    "type": "Bathroom_Usage",
+    "dailyResult": {
+        "type": "Number",
+        "value": 10,
+        "metadata": {
+            "userid": {
+                "value": "uuid",
+                "type": "String"
+            },
+            "timestamp": {
+                "value": "2019-06-01T00:00:00+00:00",
+                "type": "DateTime"
+            },
+            "measurementUnit": {
+                "value": "Hours",
+                "type": "String"
+            },
+            "green_lower": {
+                "value": "7",
+                "type": "Number"
+            },
+            "green_upper": {
+                "value": "18",
+                "type": "Number"
+            },
+            "yellow_lower": {
+                "value": "3",
+                "type": "Number"
+            },
+            "yellow_upper": {
+                "value": "20",
+                "type": "Number"
+            }
+        }
+    }
+}

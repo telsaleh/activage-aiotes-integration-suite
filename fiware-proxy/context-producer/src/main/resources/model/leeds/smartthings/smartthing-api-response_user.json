@@ -1,0 +1,336 @@
+{
+    "items": [
+        {
+            "deviceId": "802360e1-ad45-4966-ac1b-14434094d790",
+            "name": "Motion Sensor",
+            "label": "Kitchen",
+            "locationId": "000fbe97-53b0-44bb-83ee-907aebc670a9",
+            "roomId": "241c5216-848e-45d9-b9a2-38cc98858c93",
+            "deviceTypeId": "821425e6-b305-468a-9a27-db0e4852ce3a",
+            "deviceTypeName": "SmartSense Motion Sensor",
+            "deviceNetworkType": "ZIGBEE",
+            "components": [
+                {
+                    "id": "main",
+                    "label": "Kitchen",
+                    "capabilities": [
+                        {
+                            "id": "temperatureMeasurement",
+                            "version": 1
+                        },
+                        {
+                            "id": "battery",
+                            "version": 1
+                        },
+                        {
+                            "id": "motionSensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "configuration",
+                            "version": 1
+                        },
+                        {
+                            "id": "refresh",
+                            "version": 1
+                        },
+                        {
+                            "id": "sensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "healthCheck",
+                            "version": 1
+                        }
+                    ]
+                }
+            ],
+            "dth": {
+                "deviceTypeId": "821425e6-b305-468a-9a27-db0e4852ce3a",
+                "deviceTypeName": "SmartSense Motion Sensor",
+                "deviceNetworkType": "ZIGBEE",
+                "completedSetup": true,
+                "networkSecurityLevel": "UNKNOWN",
+                "hubId": "13e0c97b-da46-4712-a40b-dbdfb5c77078"
+            },
+            "type": "DTH"
+        },
+        {
+            "deviceId": "96ce985e-21ed-4d04-a70f-667ccf31fd99",
+            "name": "Multipurpose Sensor",
+            "label": "Fridge",
+            "locationId": "000fbe97-53b0-44bb-83ee-907aebc670a9",
+            "roomId": "241c5216-848e-45d9-b9a2-38cc98858c93",
+            "deviceTypeId": "52517166-43f9-4cbf-8bc2-7da4e8df5614",
+            "deviceTypeName": "SmartSense Multi Sensor",
+            "deviceNetworkType": "ZIGBEE",
+            "components": [
+                {
+                    "id": "main",
+                    "label": "Fridge",
+                    "capabilities": [
+                        {
+                            "id": "temperatureMeasurement",
+                            "version": 1
+                        },
+                        {
+                            "id": "battery",
+                            "version": 1
+                        },
+                        {
+                            "id": "contactSensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "configuration",
+                            "version": 1
+                        },
+                        {
+                            "id": "threeAxis",
+                            "version": 1
+                        },
+                        {
+                            "id": "accelerationSensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "refresh",
+                            "version": 1
+                        },
+                        {
+                            "id": "sensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "healthCheck",
+                            "version": 1
+                        }
+                    ]
+                }
+            ],
+            "dth": {
+                "deviceTypeId": "52517166-43f9-4cbf-8bc2-7da4e8df5614",
+                "deviceTypeName": "SmartSense Multi Sensor",
+                "deviceNetworkType": "ZIGBEE",
+                "completedSetup": true,
+                "networkSecurityLevel": "UNKNOWN",
+                "hubId": "13e0c97b-da46-4712-a40b-dbdfb5c77078"
+            },
+            "type": "DTH"
+        },
+        {
+            "deviceId": "e4c72d02-fcf7-4fe4-960c-e585f6fbf69c",
+            "name": "Smart Plug",
+            "label": "TV",
+            "locationId": "000fbe97-53b0-44bb-83ee-907aebc670a9",
+            "roomId": "241c5216-848e-45d9-b9a2-38cc98858c93",
+            "deviceTypeId": "ad6e0870-e2a0-4670-8675-8b4dd86f0300",
+            "deviceTypeName": "Zigbee Metering Plug",
+            "deviceNetworkType": "ZIGBEE",
+            "components": [
+                {
+                    "id": "main",
+                    "label": "TV",
+                    "capabilities": [
+                        {
+                            "id": "switch",
+                            "version": 1
+                        },
+                        {
+                            "id": "configuration",
+                            "version": 1
+                        },
+                        {
+                            "id": "refresh",
+                            "version": 1
+                        },
+                        {
+                            "id": "energyMeter",
+                            "version": 1
+                        },
+                        {
+                            "id": "powerMeter",
+                            "version": 1
+                        },
+                        {
+                            "id": "sensor",
+                            "version": 1
+                        },
+                        {
+                            "id": "actuator",
+                            "version": 1
+                        },
+                        {
+                            "id": "healthCheck",
+                            "version": 1
+                        }
+                    ]
+                }
+            ],
+            "dth": {
+                "deviceTypeId": "ad6e0870-e2a0-4670-8675-8b4dd86f0300",
+                "deviceTypeName": "Zigbee Metering Plug",
+                "deviceNetworkType": "ZIGBEE",
+                "completedSetup": true,
+                "networkSecurityLevel": "UNKNOWN",
+                "hubId": "13e0c97b-da46-4712-a40b-dbdfb5c77078"
+            },
+            "type": "DTH"
+        }
+    ],
+    "states": [
+        {
+            "components": {
+                "main": {
+                    "configuration": {},
+                    "healthCheck": {
+                        "checkInterval": {
+                            "value": 720,
+                            "unit": "s",
+                            "data": {
+                                "protocol": "zigbee",
+                                "hubHardwareId": "001F",
+                                "offlinePingable": "1"
+                            }
+                        },
+                        "DeviceWatch-Enroll": {
+                            "value": null
+                        },
+                        "healthStatus": {
+                            "value": null
+                        },
+                        "DeviceWatch-DeviceStatus": {
+                            "value": null
+                        }
+                    },
+                    "refresh": {},
+                    "temperatureMeasurement": {
+                        "temperature": {
+                            "value": 25,
+                            "unit": "C"
+                        }
+                    },
+                    "sensor": {},
+                    "motionSensor": {
+                        "motion": {
+                            "value": "active"
+                        }
+                    },
+                    "battery": {
+                        "battery": {
+                            "value": 100,
+                            "unit": "%"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "components": {
+                "main": {
+                    "contactSensor": {
+                        "contact": {
+                            "value": "open"
+                        }
+                    },
+                    "threeAxis": {
+                        "threeAxis": {
+                            "value": [
+                                -1030,
+                                6,
+                                -3
+                            ],
+                            "unit": "mG"
+                        }
+                    },
+                    "configuration": {},
+                    "healthCheck": {
+                        "checkInterval": {
+                            "value": 720,
+                            "unit": "s",
+                            "data": {
+                                "protocol": "zigbee",
+                                "hubHardwareId": "001F",
+                                "offlinePingable": "1"
+                            }
+                        },
+                        "DeviceWatch-Enroll": {
+                            "value": null
+                        },
+                        "healthStatus": {
+                            "value": null
+                        },
+                        "DeviceWatch-DeviceStatus": {
+                            "value": null
+                        }
+                    },
+                    "refresh": {},
+                    "temperatureMeasurement": {
+                        "temperature": {
+                            "value": 27,
+                            "unit": "C"
+                        }
+                    },
+                    "sensor": {},
+                    "battery": {
+                        "battery": {
+                            "value": 100,
+                            "unit": "%"
+                        }
+                    },
+                    "accelerationSensor": {
+                        "acceleration": {
+                            "value": "active"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "components": {
+                "main": {
+                    "powerMeter": {
+                        "power": {
+                            "value": 0,
+                            "unit": "W"
+                        }
+                    },
+                    "actuator": {},
+                    "configuration": {},
+                    "energyMeter": {
+                        "energy": {
+                            "value": 0,
+                            "unit": "kWh"
+                        }
+                    },
+                    "healthCheck": {
+                        "checkInterval": {
+                            "value": 720,
+                            "unit": "s",
+                            "data": {
+                                "protocol": "zigbee",
+                                "hubHardwareId": "001F"
+                            }
+                        },
+                        "DeviceWatch-Enroll": {
+                            "value": null
+                        },
+                        "healthStatus": {
+                            "value": null
+                        },
+                        "DeviceWatch-DeviceStatus": {
+                            "value": null
+                        }
+                    },
+                    "refresh": {},
+                    "sensor": {},
+                    "switch": {
+                        "switch": {
+                            "value": "off"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
