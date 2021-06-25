@@ -197,7 +197,7 @@ public class SmartThingsParseTest {
         ClassLoader classLoader = getClass().getClassLoader();
         try {
             //noinspection deprecation
-            result = IOUtils.toString(Objects.requireNonNull(classLoader.getResourceAsStream("model/leeds/smartthings/smartthing-api-response_user.json")));
+            result = IOUtils.toString(Objects.requireNonNull(classLoader.getResourceAsStream("data-models/smartthings/smartthing-api-response_user.json")));
         } catch (IOException e) {
             e.printStackTrace();
         }

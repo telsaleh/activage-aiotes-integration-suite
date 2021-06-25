@@ -15,16 +15,7 @@ public class ConsumerListener extends Application {
     /**
      * Creates a root Restlet that will receive all incoming calls.
      */
-//    public static final String restletPath = "/repo";
-//    public static final String restletPath = "/v2";
-//    public static final String registerPrefix = "/register";//POST
-//    public static final String lookupPrefix = "/lookup";    //GET
-//    public static final String updatePrefix = "/update";    //UPDATE
-//    public static final String deletePrefix = "/remove";    //DELETE
-//    public static final String sparqlPrefix = "/sparql";     //GET, POST    discover via SPARQL
-//    public static final String searchPrefix = "/search";    //GET, POST     discover via Prob Engine
-    private static final String registryPrefix = "/registry"; //POST
-    public static final String sparqlPrefix = "/sparql"; //POST
+    private static final String consumerPrefix = "/fiware-consumer"; //POST
     private static final String sanityCheckPrefix = "/version"; //POST
 
     public static void main(String[] args) throws Exception {
@@ -42,8 +33,8 @@ public class ConsumerListener extends Application {
 
         router.attach(sanityCheckPrefix, SanityCheck.class);
 
-        router.attach(registryPrefix + "/{repository_id}", NotificationHandler.class); //POST
-        router.attach(registryPrefix + "/{repository_id}/{resource_id}", NotificationHandler.class);  //GET, UPDATE, DELETE      
+        router.attach(consumerPrefix, NotificationHandler.class); //POST
+        router.attach(consumerPrefix + "/{entity_type}", NotificationHandler.class);  //GET, UPDATE, DELETE
 
         return router;
     }
