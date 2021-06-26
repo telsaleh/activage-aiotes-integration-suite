@@ -14,6 +14,10 @@ It pulls data from services provided by the ActivageLeeds Platform and publishes
 
 ![image info](./docs/images/LEE-AIoTES-integration_architecture.png)  
 
+## Interactions  
+
+![image info](./docs/images/LEE-AIoTES-integration_interactions.png)
+
 ## Installation Guide
 
 ### System Requirements  
