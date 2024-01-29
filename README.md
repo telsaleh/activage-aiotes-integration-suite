@@ -1,7 +1,7 @@
 # ACTIVAGE AIoTES Integration Suite  
 
 ## Introduction  
-The ACTIVAGE Leeds AIoTES Integration Suite enables the integration of the ActivageLeeds platform with the ACTIVAGE IoT Ecosystem Suite (AIoTES) Semantic Interoperability Layer (SIL). The Integration Suite consists of the following modules:
+The [ACTIVAGE](http://www.activageproject.eu/) [Leeds](http://www.activageproject.eu/deployment-sites/Leeds/) AIoTES Integration Suite enables the integration of the ActivageLeeds platform with the ACTIVAGE IoT Ecosystem Suite (AIoTES) Semantic Interoperability Layer (SIL). The Integration Suite consists of the following modules:
 
 - `SIL Client`: handles semantic mapping uploading and device registration  
 - `IoT Platform`: A legacy platform compatible with AIoTES which enables the exchange of IoT Data between a Deployment Site (DS) and SIL via the IoT platform bridge. The platform selected is FIWARE.
